@@ -9,7 +9,7 @@ I'm a student at **Cornell University** majoring in *Computer Science and Mathem
 ### ✍️ Writing Pilot AI
 Collaborating with a 4-member team to build a browser extension that uses AI to enhance writing across the web. It offers intelligent, context-aware suggestions and adapts to your unique style for seamless productivity.
 
-**Tech**: AI/ML, JavaScript, React.js, Browser Extension API
+**Tech**: MongoDB, Express.js, React.js, Node.js, Firebase, OpenAI API, Tailwind CSS
 
 ---
 
