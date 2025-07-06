@@ -42,7 +42,7 @@ Monetized Chrome extension that converts highlighted text into calendar events u
 ---
 
 ### ⚙️ RapidRho
-Real-time ML pipeline to recover latent asset correlations with 90%+ accuracy, replacing numerical inversion in pricing/risk workflows.
+Building a real-time ML pipeline to recover latent asset correlations with 90%+ accuracy, replacing numerical inversion in pricing/risk workflows.
 
 **Tech**: PyTorch, NumPy, Flask, React.js, Firebase
 
@@ -52,13 +52,6 @@ Real-time ML pipeline to recover latent asset correlations with 90%+ accuracy, r
 Built a centralized platform for 500+ Pakistani students and alumni at Cornell to network and share events.
 
 **Tech**: React.js, Tailwind CSS, Flask, Firebase
-
----
-
-### 🧪 Flaky Test Detection
-Detected approximate assertions in ML pipelines using static analysis via AST-based assertion extraction.
-
-**Tech**: Python, TensorFlow
 
 ---
 
