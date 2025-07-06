@@ -1,88 +1,110 @@
-# 👋 Hi there, I'm Aitzaz
+# 👋 Hi, I'm Aitzaz Shaikh
 
-I'm a student at **Cornell University** majoring in *Computer Science and Mathematics*, with a minor in *Physics*. I’m passionate about **machine learning**, **AI**, **software engineering**, and building tools that solve real-world problems.
+Welcome to my GitHub! I'm a passionate software engineer and researcher at **Cornell University**, majoring in **Computer Science and Mathematics**, with a minor in **Physics**. I love solving real-world problems through AI, mathematical modeling, and full-stack software.
 
-🔭 I enjoy modeling complex systems through simulations, researching gradient-aware architectures, and designing scalable tools that combine usability with performance.
+---
 
-## 🚀 Projects
+## 🚀 About Me
+
+I'm deeply interested in **machine learning**, **AI infrastructure**, and **developer tools** that push the boundaries of what’s possible. Whether it's simulating physics using PINNs, building AI-integrated Chrome extensions, or designing backend systems from scratch, I enjoy projects that blend **creativity**, **rigor**, and **impact**.
+
+I'm also an avid learner who enjoys clean code, fast systems, and building products that people love.
+
+---
+
+## 🧠 Skills & Tools
+
+**Languages:** Python, JavaScript, TypeScript, OCaml, Swift, SQL, C, Java  
+**Frameworks & Libraries:** React.js, Next.js, Flask, Node.js, PyTorch, TensorFlow, Tailwind, Styled Components  
+**AI/ML:** OpenAI API, Pinecone, RAG, Core ML, Create ML, Scikit-Learn  
+**Infra/Tools:** Git, Firebase, Stripe, Vercel, Google APIs, AWS, Docker (learning)  
+**Interests:** AI toolchains, ML optimization, real-time systems, privacy, education tech
+
+---
+
+## 🛠️ Selected Projects
 
 ### ✍️ Writing Pilot AI
-Collaborating with a 4-member team to build a browser extension that uses AI to enhance writing across the web. It offers intelligent, context-aware suggestions and adapts to your unique style for seamless productivity.
+An AI-powered writing assistant Chrome extension that provides intelligent, context-aware suggestions and adapts to user writing styles.
 
-**Tech**: MongoDB, Express.js, React.js, Node.js, Firebase, OpenAI API, Tailwind CSS
+**Tech**: JavaScript, React.js, Browser Extension API, AI/ML  
+**Team**: 4 members | *In progress*
 
 ---
 
 ### 📆 GPal (Smart Google Calendar Extension)
-Built a monetized Chrome extension that uses AI to parse highlighted text and generate Google Calendar events with one click, saving users 30+ seconds per event.
+Monetized Chrome extension that converts highlighted text into calendar events using engineered AI prompts. Saves 30+ seconds per event.
 
-**Tech**: JavaScript, Node.js, Express, OpenAI API, Chrome Extension API, Google Calendar API, Stripe
+**Tech**: JavaScript, Node.js, Chrome Extension API, OpenAI API, Google Calendar API, Stripe  
+**Outcome**: Boosted productivity for 100+ users
 
 ---
 
-### 📈 RapidRho
-Developing a full-stack ML pipeline that trains neural networks to estimate latent asset correlation with 90%+ accuracy, enabling real-time risk analytics.
+### ⚙️ RapidRho
+Real-time ML pipeline to recover latent asset correlations with 90%+ accuracy, replacing numerical inversion in pricing/risk workflows.
 
-**Tech**: Python, PyTorch, NumPy, Pandas, Flask, Firebase, React.js
+**Tech**: PyTorch, NumPy, Flask, React.js, Firebase
 
 ---
 
 ### 🌐 Cornell PSA Networking Portal
-Creating a centralized platform for 500+ Pakistani students and alumni at Cornell to network, share events, and stay engaged.
+Built a centralized platform for 500+ Pakistani students and alumni at Cornell to network and share events.
 
 **Tech**: React.js, Tailwind CSS, Flask, Firebase
 
 ---
 
-### 🧪 Flaky Test Analysis & Instrumentation
-Detected approximate assertions in ML pipelines through AST-based static analysis of test suites.
+### 🧪 Flaky Test Detection
+Detected approximate assertions in ML pipelines using static analysis via AST-based assertion extraction.
 
-**Tech**: Python, TensorFlow, AST
+**Tech**: Python, TensorFlow
 
 ---
 
 ### 🔐 OCryptor
-Worked with a team to build a secure file encryption tool with support for RSA, AES, SHA-256, EC2, and Blowfish, featuring a clean UI.
+Developed a user-friendly file encryption tool supporting RSA, AES, SHA-256, and more, built entirely in OCaml.
 
 **Tech**: OCaml, Dune, OUnit
 
 ---
 
-### 🤖 AI Customer Support System
-Built an AI-powered support assistant with context-aware responses using RAG-based retrieval and vector databases.
+### 🤖 AI Customer Support
+RAG-based AI chatbot system with backend search, response generation, and vector similarity using OpenAI and Pinecone.
 
-**Tech**: Next.js, React, AWS, Pinecone, OpenAI API
+**Tech**: Next.js, React, AWS, OpenAI, Pinecone
 
 ---
 
 ### 🥫 Pantry Tracker
-Built a CRUD web app for managing pantry inventory with real-time AI assistance for item recognition and categorization.
+CRUD app with AI-powered inventory management.
 
-**Tech**: Next.js, React, OpenAI, Firebase, Vercel
+**Tech**: Next.js, Firebase, Vercel, OpenAI API
 
 ---
 
 ### 💤 ChaiOrSleep
-An iOS app that calculates optimal chai intake based on user sleep cycles using on-device ML.
+iOS app that tells you how much chai to drink based on your sleep cycles using on-device ML.
 
 **Tech**: SwiftUI, Create ML, Core ML
 
 ---
 
 ### 💸 Expense Tracker
-An expense-tracking app that helps users optimize budgets, currently exploring Lagrangian optimization techniques.
+Swift-based budget tracker with optimization features using Lagrange multipliers.
 
 **Tech**: SwiftUI
 
 ---
 
-## 📫 Let's Connect
+## 📫 Let’s Connect
 
-- [Email Me](mailto:ams845@cornell.edu)
-- [LinkedIn](https://www.linkedin.com/in/aitzaz-munir-shaikh/)
-- [GitHub](https://github.com/aitzaz-web)
-- [Website](https://aitzazmunir.com)
+- 🔗 [Website](https://aitzazmunir.com)
+- 💼 [LinkedIn](https://linkedin.com/in/aitzaz-munir-shaikh/)
+- 🧠 [GitHub](https://github.com/aitzaz-web)
+- 📧 Email: ams845@cornell.edu
 
 ---
 
-💡 *Always open to learning, collaboration, and opportunities in ML, systems, and product-focused roles.*
+### ⚡ Fun Fact:
+I’m always working on something — whether it’s a browser tool to save people time, a research model to understand physical systems better, or a weekend side project just for fun. Let’s build something together!
+
