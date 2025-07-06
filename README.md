@@ -29,6 +29,7 @@ An AI-powered writing assistant Chrome extension that provides intelligent, cont
 
 **Tech**: JavaScript, React.js, Browser Extension API, AI/ML  
 **Team**: 4 members | *In progress*
+**Link**: [Unavailable due to NDA — visit the website instead](https://writingpilot.ai/)
 
 ---
 
