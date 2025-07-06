@@ -14,11 +14,20 @@ I'm also an avid learner who enjoys clean code, fast systems, and building produ
 
 ## 🧠 Skills & Tools
 
-**Languages:** Java, Python, Julia, OCaml, JavaScript, TypeScript, Go, SQL, Swift (iOS), MATLAB
-**Frameworks & Libraries:** React, Next.js, Flask, Node.js, TensorFlow, PyTorch, JAX, pandas, NumPy, Tailwind
-**AI/ML:** OpenAI API, Pinecone, RAG, Core ML, Create ML, Scikit-Learn  
-**Infra/Tools:** Git, Firebase, Stripe, Vercel, Google APIs, AWS, Docker (learning)  
-**Interests:** AI toolchains, ML optimization, real-time systems, privacy, education tech
+**Languages:**  
+Java, Python, Julia, OCaml, JavaScript, TypeScript, Go, SQL, Swift (iOS), MATLAB
+
+**Frameworks & Libraries:**  
+React, Next.js, Flask, Node.js, TensorFlow, PyTorch, JAX, pandas, NumPy, Tailwind CSS
+
+**AI/ML:**  
+OpenAI API, Pinecone, RAG, Core ML, Create ML, Scikit-Learn
+
+**Infrastructure & Tools:**  
+Git, Firebase, Stripe, Vercel, Google APIs, AWS, Docker (learning)
+
+**Interests:**  
+AI toolchains, ML optimization, real-time systems, data privacy, education technology
 
 ---
 
