@@ -14,15 +14,15 @@ I'm also an avid learner who enjoys clean code, fast systems, and building produ
 
 ## 🧠 Skills & Tools
 
-**Languages:** Python, JavaScript, TypeScript, OCaml, Swift, SQL, C, Java  
-**Frameworks & Libraries:** React.js, Next.js, Flask, Node.js, PyTorch, TensorFlow, Tailwind, Styled Components  
+**Languages:** Java, Python, Julia, OCaml, JavaScript, TypeScript, Go, SQL, Swift (iOS), MATLAB
+**Frameworks & Libraries:** React, Next.js, Flask, Node.js, TensorFlow, PyTorch, JAX, pandas, NumPy, Tailwind
 **AI/ML:** OpenAI API, Pinecone, RAG, Core ML, Create ML, Scikit-Learn  
 **Infra/Tools:** Git, Firebase, Stripe, Vercel, Google APIs, AWS, Docker (learning)  
 **Interests:** AI toolchains, ML optimization, real-time systems, privacy, education tech
 
 ---
 
-## 🛠️ Selected Projects
+## 🛠️ Projects
 
 ### ✍️ Writing Pilot AI
 An AI-powered writing assistant Chrome extension that provides intelligent, context-aware suggestions and adapts to user writing styles.
